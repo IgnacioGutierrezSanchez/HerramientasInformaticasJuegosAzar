@@ -19,5 +19,6 @@ Libre elección del diseño interno (clases, estructuras de datos) por parte del
 
 ### Autores
 Mario López Díaz
+
 Ignacio Gutiérrez Sánchez
 
