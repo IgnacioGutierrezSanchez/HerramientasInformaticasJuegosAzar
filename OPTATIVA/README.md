@@ -15,4 +15,5 @@ Sistema básico de apuestas (stack de fichas, pot).
 
 ### Autores
 Mario López Díaz
+
 Ignacio Gutiérrez Sánchez
